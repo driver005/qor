@@ -1,0 +1,22 @@
+github:
+  clientid: 'your github client id'
+  clientsecret: 'your github client secret'
+google:
+  clientid: 'your google client id'
+  clientsecret: 'your google client secret'
+facebook:
+  clientid: 'your facebook client id'
+  clientsecret: 'your facebook client secret'
+twitter:
+  clientid: 'your twitter client id'
+  clientsecret: 'your twitter client secret'
+db:
+  adapter: mysql
+  name: qor_example
+  user: root
+smtp:
+  host: smtp.gmail.com
+  port: 587
+  user: qor@getqor.com
+  password: xxxxxx
+  site: http://demo.getqor.com

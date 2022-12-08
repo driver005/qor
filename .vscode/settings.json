@@ -1,0 +1,13 @@
+{
+    "i18n-ally.localesPaths": [
+        "i18n",
+        "config/i18n",
+        "config/locales",
+        "auth_themes/clean/locales",
+        "i18n/views/themes/i18n",
+        "i18n/inline_edit/views/themes/i18n",
+        "i18n/exchange_actions/views/themes/i18n",
+        "i18n/views/themes/i18n/assets/javascripts/i18n",
+        "i18n/views/themes/i18n/assets/stylesheets/i18n"
+    ]
+}
